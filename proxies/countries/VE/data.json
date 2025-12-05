@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://200.108.190.110:9800",
+    "protocol": "socks4",
+    "ip": "200.108.190.110",
+    "port": 9800,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://141.136.63.126:8080",
     "protocol": "http",
     "ip": "141.136.63.126",
@@ -13,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://38.137.179.252:999",
+    "proxy": "http://38.224.36.1:999",
     "protocol": "http",
-    "ip": "38.137.179.252",
+    "ip": "38.224.36.1",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -26,9 +39,9 @@
     }
   },
   {
-    "proxy": "http://38.41.12.89:999",
+    "proxy": "http://190.97.241.7:999",
     "protocol": "http",
-    "ip": "38.41.12.89",
+    "ip": "190.97.241.7",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -39,9 +52,9 @@
     }
   },
   {
-    "proxy": "http://190.94.212.198:999",
+    "proxy": "http://45.230.169.5:999",
     "protocol": "http",
-    "ip": "190.94.212.198",
+    "ip": "45.230.169.5",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -52,10 +65,49 @@
     }
   },
   {
-    "proxy": "http://45.186.208.34:8080",
+    "proxy": "http://138.59.11.65:999",
     "protocol": "http",
-    "ip": "45.186.208.34",
-    "port": 8080,
+    "ip": "138.59.11.65",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://200.59.186.177:999",
+    "protocol": "http",
+    "ip": "200.59.186.177",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://200.59.186.176:999",
+    "protocol": "http",
+    "ip": "200.59.186.176",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://200.59.186.179:999",
+    "protocol": "http",
+    "ip": "200.59.186.179",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -78,42 +130,55 @@
     }
   },
   {
-    "proxy": "http://67.43.236.20:23095",
+    "proxy": "http://200.59.191.233:999",
     "protocol": "http",
-    "ip": "67.43.236.20",
-    "port": 23095,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://67.43.228.253:20385",
-    "protocol": "http",
-    "ip": "67.43.228.253",
-    "port": 20385,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VE",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://190.97.239.40:999",
-    "protocol": "http",
-    "ip": "190.97.239.40",
+    "ip": "200.59.191.233",
     "port": 999,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "VE",
-      "city": "Caracas"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://200.59.191.234:999",
+    "protocol": "http",
+    "ip": "200.59.191.234",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://167.250.50.242:999",
+    "protocol": "http",
+    "ip": "167.250.50.242",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://200.59.191.61:999",
+    "protocol": "http",
+    "ip": "200.59.191.61",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VE",
+      "city": "Unknown"
     }
   }
 ]
