@@ -1,8 +1,47 @@
 [
   {
-    "proxy": "http://177.234.247.234:999",
+    "proxy": "socks4://190.57.131.158:1080",
+    "protocol": "socks4",
+    "ip": "190.57.131.158",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://160.20.165.242:8080",
+    "protocol": "socks4",
+    "ip": "160.20.165.242",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://177.234.217.42:999",
     "protocol": "http",
-    "ip": "177.234.247.234",
+    "ip": "177.234.217.42",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://177.234.217.45:999",
+    "protocol": "http",
+    "ip": "177.234.217.45",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -43,6 +82,19 @@
     "protocol": "http",
     "ip": "177.234.226.83",
     "port": 1994,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://181.78.197.235:999",
+    "protocol": "http",
+    "ip": "181.78.197.235",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -96,17 +148,30 @@
     "ip": "181.78.202.29",
     "port": 8080,
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "EC",
-      "city": "Unknown"
+      "city": "Guayaquil"
     }
   },
   {
-    "proxy": "http://8.243.197.200:999",
+    "proxy": "http://177.234.217.235:999",
     "protocol": "http",
-    "ip": "8.243.197.200",
+    "ip": "177.234.217.235",
+    "port": 999,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Guayaquil"
+    }
+  },
+  {
+    "proxy": "http://177.234.217.236:999",
+    "protocol": "http",
+    "ip": "177.234.217.236",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -117,9 +182,35 @@
     }
   },
   {
-    "proxy": "http://177.234.217.84:999",
+    "proxy": "http://177.234.217.82:999",
     "protocol": "http",
-    "ip": "177.234.217.84",
+    "ip": "177.234.217.82",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.46.238.250:8080",
+    "protocol": "http",
+    "ip": "186.46.238.250",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://177.234.217.83:999",
+    "protocol": "http",
+    "ip": "177.234.217.83",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -169,9 +260,9 @@
     }
   },
   {
-    "proxy": "http://181.188.203.104:999",
+    "proxy": "http://177.234.249.151:999",
     "protocol": "http",
-    "ip": "181.188.203.104",
+    "ip": "177.234.249.151",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -182,22 +273,9 @@
     }
   },
   {
-    "proxy": "http://181.188.203.80:999",
+    "proxy": "http://201.182.150.184:999",
     "protocol": "http",
-    "ip": "181.188.203.80",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://181.188.203.96:999",
-    "protocol": "http",
-    "ip": "181.188.203.96",
+    "ip": "201.182.150.184",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -221,32 +299,6 @@
     }
   },
   {
-    "proxy": "http://190.95.132.186:999",
-    "protocol": "http",
-    "ip": "190.95.132.186",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://200.24.130.150:999",
-    "protocol": "http",
-    "ip": "200.24.130.150",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "EC",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://200.24.130.144:999",
     "protocol": "http",
     "ip": "200.24.130.144",
@@ -260,9 +312,9 @@
     }
   },
   {
-    "proxy": "http://200.24.130.148:999",
+    "proxy": "http://200.24.130.145:999",
     "protocol": "http",
-    "ip": "200.24.130.148",
+    "ip": "200.24.130.145",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -286,9 +338,9 @@
     }
   },
   {
-    "proxy": "http://200.24.130.149:999",
+    "proxy": "http://190.95.132.188:999",
     "protocol": "http",
-    "ip": "200.24.130.149",
+    "ip": "190.95.132.188",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -312,10 +364,10 @@
     }
   },
   {
-    "proxy": "http://72.10.160.94:12861",
+    "proxy": "http://161.97.167.54:8080",
     "protocol": "http",
-    "ip": "72.10.160.94",
-    "port": 12861,
+    "ip": "161.97.167.54",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -325,10 +377,23 @@
     }
   },
   {
-    "proxy": "http://72.10.160.92:12861",
+    "proxy": "http://38.159.229.115:999",
     "protocol": "http",
-    "ip": "72.10.160.92",
-    "port": 12861,
+    "ip": "38.159.229.115",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "EC",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://67.43.236.20:32497",
+    "protocol": "http",
+    "ip": "67.43.236.20",
+    "port": 32497,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
