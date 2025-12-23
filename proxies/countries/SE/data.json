@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://80.78.30.35:80",
-    "protocol": "http",
-    "ip": "80.78.30.35",
-    "port": 80,
+    "proxy": "socks4://85.228.42.230:4153",
+    "protocol": "socks4",
+    "ip": "85.228.42.230",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,9 +13,9 @@
     }
   },
   {
-    "proxy": "http://80.78.18.52:80",
+    "proxy": "http://188.245.91.223:80",
     "protocol": "http",
-    "ip": "80.78.18.52",
+    "ip": "188.245.91.223",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
@@ -52,16 +52,29 @@
     }
   },
   {
-    "proxy": "http://185.146.173.171:80",
+    "proxy": "http://80.78.28.172:80",
     "protocol": "http",
-    "ip": "185.146.173.171",
+    "ip": "80.78.28.172",
     "port": 80,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "SE",
-      "city": ""
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://62.60.151.128:80",
+    "protocol": "http",
+    "ip": "62.60.151.128",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": "Unknown"
     }
   },
   {
@@ -78,9 +91,9 @@
     }
   },
   {
-    "proxy": "http://185.146.173.205:80",
+    "proxy": "http://185.146.173.69:80",
     "protocol": "http",
-    "ip": "185.146.173.205",
+    "ip": "185.146.173.69",
     "port": 80,
     "https": false,
     "anonymity": "elite",
@@ -91,9 +104,9 @@
     }
   },
   {
-    "proxy": "http://185.146.173.110:80",
+    "proxy": "http://185.146.173.234:80",
     "protocol": "http",
-    "ip": "185.146.173.110",
+    "ip": "185.146.173.234",
     "port": 80,
     "https": false,
     "anonymity": "elite",
@@ -104,9 +117,9 @@
     }
   },
   {
-    "proxy": "http://185.146.173.101:80",
+    "proxy": "http://185.146.173.166:80",
     "protocol": "http",
-    "ip": "185.146.173.101",
+    "ip": "185.146.173.166",
     "port": 80,
     "https": false,
     "anonymity": "elite",
@@ -117,29 +130,16 @@
     }
   },
   {
-    "proxy": "http://185.146.173.66:80",
+    "proxy": "http://185.36.145.215:80",
     "protocol": "http",
-    "ip": "185.146.173.66",
+    "ip": "185.36.145.215",
     "port": 80,
     "https": false,
-    "anonymity": "elite",
+    "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "SE",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://185.146.173.145:80",
-    "protocol": "http",
-    "ip": "185.146.173.145",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "SE",
-      "city": ""
+      "city": "Stockholm"
     }
   },
   {
@@ -156,9 +156,61 @@
     }
   },
   {
-    "proxy": "http://185.146.173.69:80",
+    "proxy": "http://185.146.173.171:80",
     "protocol": "http",
-    "ip": "185.146.173.69",
+    "ip": "185.146.173.171",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.146.173.98:80",
+    "protocol": "http",
+    "ip": "185.146.173.98",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.146.173.102:80",
+    "protocol": "http",
+    "ip": "185.146.173.102",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.146.173.106:80",
+    "protocol": "http",
+    "ip": "185.146.173.106",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "SE",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://185.146.173.59:80",
+    "protocol": "http",
+    "ip": "185.146.173.59",
     "port": 80,
     "https": false,
     "anonymity": "elite",
