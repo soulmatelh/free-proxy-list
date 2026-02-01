@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://170.245.132.85:999",
+    "protocol": "http",
+    "ip": "170.245.132.85",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PY",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://45.177.16.132:999",
     "protocol": "http",
     "ip": "45.177.16.132",
@@ -10,19 +23,6 @@
     "geolocation": {
       "country": "PY",
       "city": "Ciudad del Este"
-    }
-  },
-  {
-    "proxy": "http://190.128.134.66:999",
-    "protocol": "http",
-    "ip": "190.128.134.66",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PY",
-      "city": "Unknown"
     }
   },
   {
@@ -52,10 +52,10 @@
     }
   },
   {
-    "proxy": "http://38.52.135.96:8181",
+    "proxy": "http://170.245.132.80:999",
     "protocol": "http",
-    "ip": "38.52.135.96",
-    "port": 8181,
+    "ip": "170.245.132.80",
+    "port": 999,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -65,9 +65,9 @@
     }
   },
   {
-    "proxy": "http://190.93.179.125:999",
+    "proxy": "http://181.78.27.39:999",
     "protocol": "http",
-    "ip": "190.93.179.125",
+    "ip": "181.78.27.39",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
