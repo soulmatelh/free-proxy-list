@@ -1,5 +1,31 @@
 [
   {
+    "proxy": "socks5://203.189.151.19:1080",
+    "protocol": "socks5",
+    "ip": "203.189.151.19",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Phnom Penh"
+    }
+  },
+  {
+    "proxy": "socks5://203.189.158.239:1080",
+    "protocol": "socks5",
+    "ip": "203.189.158.239",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks5://110.235.248.81:1080",
     "protocol": "socks5",
     "ip": "110.235.248.81",
@@ -13,10 +39,23 @@
     }
   },
   {
-    "proxy": "socks5://124.248.168.90:1080",
-    "protocol": "socks5",
-    "ip": "124.248.168.90",
-    "port": 1080,
+    "proxy": "http://103.118.46.174:8080",
+    "protocol": "http",
+    "ip": "103.118.46.174",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.118.46.61:8080",
+    "protocol": "http",
+    "ip": "103.118.46.61",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,22 +78,9 @@
     }
   },
   {
-    "proxy": "http://203.189.153.19:8083",
+    "proxy": "http://36.37.155.160:8080",
     "protocol": "http",
-    "ip": "203.189.153.19",
-    "port": 8083,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.63.190.72:8080",
-    "protocol": "http",
-    "ip": "103.63.190.72",
+    "ip": "36.37.155.160",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -78,9 +104,9 @@
     }
   },
   {
-    "proxy": "http://103.118.47.205:8080",
+    "proxy": "http://49.156.44.116:8080",
     "protocol": "http",
-    "ip": "103.118.47.205",
+    "ip": "49.156.44.116",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -91,9 +117,48 @@
     }
   },
   {
-    "proxy": "http://203.95.198.156:8080",
+    "proxy": "http://203.171.252.7:8080",
     "protocol": "http",
-    "ip": "203.95.198.156",
+    "ip": "203.171.252.7",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://110.74.215.171:8080",
+    "protocol": "http",
+    "ip": "110.74.215.171",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.118.47.243:8080",
+    "protocol": "http",
+    "ip": "103.118.47.243",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://203.95.199.159:8080",
+    "protocol": "http",
+    "ip": "203.95.199.159",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -130,9 +195,35 @@
     }
   },
   {
-    "proxy": "http://203.95.196.96:8080",
+    "proxy": "http://203.95.198.186:8080",
     "protocol": "http",
-    "ip": "203.95.196.96",
+    "ip": "203.95.198.186",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://96.9.66.208:80",
+    "protocol": "http",
+    "ip": "96.9.66.208",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://203.95.198.167:8080",
+    "protocol": "http",
+    "ip": "203.95.198.167",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -172,19 +263,6 @@
     "proxy": "socks5://116.212.142.239:1080",
     "protocol": "socks5",
     "ip": "116.212.142.239",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KH",
-      "city": "Phnom Penh"
-    }
-  },
-  {
-    "proxy": "socks5://203.189.151.19:1080",
-    "protocol": "socks5",
-    "ip": "203.189.151.19",
     "port": 1080,
     "https": false,
     "anonymity": "transparent",
