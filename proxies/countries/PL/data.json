@@ -52,19 +52,6 @@
     }
   },
   {
-    "proxy": "socks5://62.60.131.182:4137",
-    "protocol": "socks5",
-    "ip": "62.60.131.182",
-    "port": 4137,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://62.60.131.191:4081",
     "protocol": "socks5",
     "ip": "62.60.131.191",
@@ -91,10 +78,10 @@
     }
   },
   {
-    "proxy": "socks5://36.255.98.184:4069",
+    "proxy": "socks5://62.60.131.183:4004",
     "protocol": "socks5",
-    "ip": "36.255.98.184",
-    "port": 4069,
+    "ip": "62.60.131.183",
+    "port": 4004,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -104,10 +91,10 @@
     }
   },
   {
-    "proxy": "socks5://36.255.98.169:4061",
+    "proxy": "socks5://62.60.131.181:4005",
     "protocol": "socks5",
-    "ip": "36.255.98.169",
-    "port": 4061,
+    "ip": "62.60.131.181",
+    "port": 4005,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -121,6 +108,19 @@
     "protocol": "socks5",
     "ip": "36.255.98.166",
     "port": 4037,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://185.32.4.102:4153",
+    "protocol": "socks4",
+    "ip": "185.32.4.102",
+    "port": 4153,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -325,16 +325,16 @@
     }
   },
   {
-    "proxy": "http://79.110.200.148:8081",
+    "proxy": "http://79.110.200.27:8000",
     "protocol": "http",
-    "ip": "79.110.200.148",
-    "port": 8081,
+    "ip": "79.110.200.27",
+    "port": 8000,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Unknown"
+      "city": "Wroclaw"
     }
   },
   {
@@ -364,16 +364,16 @@
     }
   },
   {
-    "proxy": "http://79.110.200.27:8000",
+    "proxy": "http://83.25.25.39:3128",
     "protocol": "http",
-    "ip": "79.110.200.27",
-    "port": 8000,
+    "ip": "83.25.25.39",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Wroclaw"
+      "city": "Unknown"
     }
   }
 ]
