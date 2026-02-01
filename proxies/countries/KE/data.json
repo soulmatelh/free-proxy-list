@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "http://197.232.25.204:8080",
+    "protocol": "http",
+    "ip": "197.232.25.204",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KE",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://102.211.216.18:8080",
     "protocol": "http",
     "ip": "102.211.216.18",
@@ -13,10 +26,36 @@
     }
   },
   {
-    "proxy": "http://41.90.167.149:8082",
+    "proxy": "http://197.232.158.189:41890",
     "protocol": "http",
-    "ip": "41.90.167.149",
-    "port": 8082,
+    "ip": "197.232.158.189",
+    "port": 41890,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://197.155.64.226:8090",
+    "protocol": "http",
+    "ip": "197.155.64.226",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KE",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://102.0.21.156:8080",
+    "protocol": "http",
+    "ip": "102.0.21.156",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -36,19 +75,6 @@
     "geolocation": {
       "country": "KE",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://41.139.147.86:5678",
-    "protocol": "socks4",
-    "ip": "41.139.147.86",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KE",
-      "city": "Nairobi"
     }
   }
 ]

@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks4://185.233.164.159:1080",
-    "protocol": "socks4",
-    "ip": "185.233.164.159",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Bursa"
-    }
-  },
-  {
     "proxy": "http://176.236.46.147:80",
     "protocol": "http",
     "ip": "176.236.46.147",
@@ -23,6 +10,19 @@
     "geolocation": {
       "country": "TR",
       "city": "Istanbul"
+    }
+  },
+  {
+    "proxy": "socks4://185.233.164.159:1080",
+    "protocol": "socks4",
+    "ip": "185.233.164.159",
+    "port": 1080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Bursa"
     }
   }
 ]

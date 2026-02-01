@@ -1,9 +1,35 @@
 [
   {
-    "proxy": "socks5://36.255.98.151:5359",
+    "proxy": "socks5://36.255.98.160:8045",
     "protocol": "socks5",
-    "ip": "36.255.98.151",
-    "port": 5359,
+    "ip": "36.255.98.160",
+    "port": 8045,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://103.82.23.118:6210",
+    "protocol": "socks5",
+    "ip": "103.82.23.118",
+    "port": 6210,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://36.255.98.162:4246",
+    "protocol": "socks5",
+    "ip": "36.255.98.162",
+    "port": 4246,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,6 +117,19 @@
     }
   },
   {
+    "proxy": "http://123.58.199.232:8168",
+    "protocol": "http",
+    "ip": "123.58.199.232",
+    "port": 8168,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://27.67.54.178:8080",
     "protocol": "http",
     "ip": "27.67.54.178",
@@ -117,19 +156,6 @@
     }
   },
   {
-    "proxy": "http://103.42.54.7:3128",
-    "protocol": "http",
-    "ip": "103.42.54.7",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "VN",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://14.225.8.195:3218",
     "protocol": "http",
     "ip": "14.225.8.195",
@@ -143,10 +169,10 @@
     }
   },
   {
-    "proxy": "http://124.158.12.3:1986",
+    "proxy": "http://222.252.97.26:8008",
     "protocol": "http",
-    "ip": "124.158.12.3",
-    "port": 1986,
+    "ip": "222.252.97.26",
+    "port": 8008,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -156,10 +182,23 @@
     }
   },
   {
-    "proxy": "http://222.252.97.26:8008",
+    "proxy": "http://171.254.94.125:8088",
     "protocol": "http",
-    "ip": "222.252.97.26",
-    "port": 8008,
+    "ip": "171.254.94.125",
+    "port": 8088,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.149.99.128:3128",
+    "protocol": "http",
+    "ip": "103.149.99.128",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
