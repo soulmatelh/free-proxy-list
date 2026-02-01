@@ -13,6 +13,19 @@
     }
   },
   {
+    "proxy": "socks4://84.51.0.57:1082",
+    "protocol": "socks4",
+    "ip": "84.51.0.57",
+    "port": 1082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Istanbul"
+    }
+  },
+  {
     "proxy": "socks5://185.233.164.159:1080",
     "protocol": "socks5",
     "ip": "185.233.164.159",
