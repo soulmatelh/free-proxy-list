@@ -1,10 +1,10 @@
 [
   {
-    "proxy": "http://148.233.136.213:443",
-    "protocol": "http",
-    "ip": "148.233.136.213",
-    "port": 443,
-    "https": true,
+    "proxy": "socks4://187.216.144.170:5678",
+    "protocol": "socks4",
+    "ip": "187.216.144.170",
+    "port": 5678,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -13,9 +13,22 @@
     }
   },
   {
-    "proxy": "http://201.140.185.41:443",
+    "proxy": "socks4://187.157.30.202:4153",
+    "protocol": "socks4",
+    "ip": "187.157.30.202",
+    "port": 4153,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://148.233.136.213:443",
     "protocol": "http",
-    "ip": "201.140.185.41",
+    "ip": "148.233.136.213",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -185,19 +198,6 @@
     "proxy": "http://38.194.231.70:999",
     "protocol": "http",
     "ip": "38.194.231.70",
-    "port": 999,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://38.194.243.62:999",
-    "protocol": "http",
-    "ip": "38.194.243.62",
     "port": 999,
     "https": false,
     "anonymity": "transparent",
@@ -455,6 +455,19 @@
     }
   },
   {
+    "proxy": "http://45.174.56.21:999",
+    "protocol": "http",
+    "ip": "45.174.56.21",
+    "port": 999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://201.150.116.32:999",
     "protocol": "http",
     "ip": "201.150.116.32",
@@ -507,19 +520,6 @@
     }
   },
   {
-    "proxy": "http://201.134.41.110:443",
-    "protocol": "http",
-    "ip": "201.134.41.110",
-    "port": 443,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "MX",
-      "city": "Heroica Matamoros"
-    }
-  },
-  {
     "proxy": "http://189.202.188.149:80",
     "protocol": "http",
     "ip": "189.202.188.149",
@@ -530,6 +530,19 @@
     "geolocation": {
       "country": "MX",
       "city": "Kanas?n"
+    }
+  },
+  {
+    "proxy": "http://201.134.41.110:443",
+    "protocol": "http",
+    "ip": "201.134.41.110",
+    "port": 443,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MX",
+      "city": "Heroica Matamoros"
     }
   }
 ]

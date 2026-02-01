@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://62.60.131.203:4045",
-    "protocol": "socks5",
-    "ip": "62.60.131.203",
-    "port": 4045,
+    "proxy": "http://74.242.169.16:3128",
+    "protocol": "http",
+    "ip": "74.242.169.16",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,16 +13,16 @@
     }
   },
   {
-    "proxy": "http://45.92.108.112:443",
+    "proxy": "http://185.85.111.18:80",
     "protocol": "http",
-    "ip": "45.92.108.112",
-    "port": 443,
-    "https": true,
+    "ip": "185.85.111.18",
+    "port": 80,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CH",
-      "city": "Unknown"
+      "city": "Tann"
     }
   },
   {
