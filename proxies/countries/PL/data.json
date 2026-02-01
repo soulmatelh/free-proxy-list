@@ -1,5 +1,57 @@
 [
   {
+    "proxy": "socks4://185.79.243.153:38431",
+    "protocol": "socks4",
+    "ip": "185.79.243.153",
+    "port": 38431,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://193.243.154.146:4145",
+    "protocol": "socks4",
+    "ip": "193.243.154.146",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://91.150.189.122:60647",
+    "protocol": "socks4",
+    "ip": "91.150.189.122",
+    "port": 60647,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://31.42.2.113:5678",
+    "protocol": "socks4",
+    "ip": "31.42.2.113",
+    "port": 5678,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "socks4://91.223.52.141:5678",
     "protocol": "socks4",
     "ip": "91.223.52.141",
@@ -13,49 +65,10 @@
     }
   },
   {
-    "proxy": "socks4://5.199.169.254:9118",
+    "proxy": "socks4://83.168.101.27:5678",
     "protocol": "socks4",
-    "ip": "5.199.169.254",
-    "port": 9118,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://88.216.68.41:9103",
-    "protocol": "socks4",
-    "ip": "88.216.68.41",
-    "port": 9103,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://5.199.166.252:9078",
-    "protocol": "socks4",
-    "ip": "5.199.166.252",
-    "port": 9078,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://5.199.166.250:9080",
-    "protocol": "socks4",
-    "ip": "5.199.166.250",
-    "port": 9080,
+    "ip": "83.168.101.27",
+    "port": 5678,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -208,6 +221,19 @@
     }
   },
   {
+    "proxy": "http://37.120.156.18:9443",
+    "protocol": "http",
+    "ip": "37.120.156.18",
+    "port": 9443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://82.118.20.183:443",
     "protocol": "http",
     "ip": "82.118.20.183",
@@ -230,7 +256,7 @@
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Wroclaw"
+      "city": "Unknown"
     }
   },
   {
@@ -243,20 +269,7 @@
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://79.110.200.27:8000",
-    "protocol": "http",
-    "ip": "79.110.200.27",
-    "port": 8000,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
+      "city": "Wroclaw"
     }
   },
   {
@@ -286,9 +299,22 @@
     }
   },
   {
-    "proxy": "http://188.116.37.3:8090",
+    "proxy": "http://79.110.202.131:8081",
     "protocol": "http",
-    "ip": "188.116.37.3",
+    "ip": "79.110.202.131",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://185.32.4.117:8090",
+    "protocol": "http",
+    "ip": "185.32.4.117",
     "port": 8090,
     "https": false,
     "anonymity": "transparent",
@@ -299,10 +325,10 @@
     }
   },
   {
-    "proxy": "http://79.110.202.131:8081",
+    "proxy": "http://83.25.25.39:3128",
     "protocol": "http",
-    "ip": "79.110.202.131",
-    "port": 8081,
+    "ip": "83.25.25.39",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
