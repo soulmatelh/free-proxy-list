@@ -1,31 +1,5 @@
 [
   {
-    "proxy": "socks5://62.60.131.193:4004",
-    "protocol": "socks5",
-    "ip": "62.60.131.193",
-    "port": 4004,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://213.173.92.102:5678",
-    "protocol": "socks4",
-    "ip": "213.173.92.102",
-    "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://62.99.135.51:443",
     "protocol": "http",
     "ip": "62.99.135.51",
@@ -52,16 +26,29 @@
     }
   },
   {
-    "proxy": "http://178.22.31.205:1081",
+    "proxy": "http://213.143.113.82:80",
     "protocol": "http",
-    "ip": "178.22.31.205",
-    "port": 1081,
+    "ip": "213.143.113.82",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "AT",
-      "city": "Unknown"
+      "city": "Vienna"
+    }
+  },
+  {
+    "proxy": "http://213.33.126.130:80",
+    "protocol": "http",
+    "ip": "213.33.126.130",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Vienna"
     }
   },
   {
@@ -81,32 +68,6 @@
     "proxy": "http://62.99.138.162:80",
     "protocol": "http",
     "ip": "62.99.138.162",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Vienna"
-    }
-  },
-  {
-    "proxy": "http://213.143.113.82:80",
-    "protocol": "http",
-    "ip": "213.143.113.82",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Vienna"
-    }
-  },
-  {
-    "proxy": "http://213.33.126.130:80",
-    "protocol": "http",
-    "ip": "213.33.126.130",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
