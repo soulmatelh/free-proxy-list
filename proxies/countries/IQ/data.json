@@ -26,10 +26,23 @@
     }
   },
   {
-    "proxy": "http://159.255.163.153:47193",
+    "proxy": "http://65.20.237.105:8080",
     "protocol": "http",
-    "ip": "159.255.163.153",
-    "port": 47193,
+    "ip": "65.20.237.105",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "IQ",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://72.10.160.170:19979",
+    "protocol": "http",
+    "ip": "72.10.160.170",
+    "port": 19979,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
