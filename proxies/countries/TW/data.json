@@ -13,35 +13,22 @@
     }
   },
   {
-    "proxy": "socks4://125.228.94.153:4145",
+    "proxy": "socks4://125.228.143.207:4145",
     "protocol": "socks4",
-    "ip": "125.228.94.153",
+    "ip": "125.228.143.207",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TW",
-      "city": "Taipei"
+      "city": "New Taipei City"
     }
   },
   {
     "proxy": "http://182.155.254.159:443",
     "protocol": "http",
     "ip": "182.155.254.159",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://60.244.184.155:443",
-    "protocol": "http",
-    "ip": "60.244.184.155",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -130,19 +117,6 @@
     }
   },
   {
-    "proxy": "http://60.244.184.155:80",
-    "protocol": "http",
-    "ip": "60.244.184.155",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "TW",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://123.205.71.210:80",
     "protocol": "http",
     "ip": "123.205.71.210",
@@ -172,6 +146,19 @@
     "proxy": "http://59.124.62.9:3128",
     "protocol": "http",
     "ip": "59.124.62.9",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://34.81.143.86:3128",
+    "protocol": "http",
+    "ip": "34.81.143.86",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -221,16 +208,16 @@
     }
   },
   {
-    "proxy": "socks4://125.228.143.207:4145",
+    "proxy": "socks4://125.228.94.153:4145",
     "protocol": "socks4",
-    "ip": "125.228.143.207",
+    "ip": "125.228.94.153",
     "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TW",
-      "city": "New Taipei City"
+      "city": "Taipei"
     }
   }
 ]
