@@ -26,9 +26,22 @@
     }
   },
   {
-    "proxy": "http://42.115.211.210:10003",
+    "proxy": "http://123.25.234.143:8090",
     "protocol": "http",
-    "ip": "42.115.211.210",
+    "ip": "123.25.234.143",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://113.169.230.146:10003",
+    "protocol": "http",
+    "ip": "113.169.230.146",
     "port": 10003,
     "https": false,
     "anonymity": "transparent",
@@ -39,16 +52,16 @@
     }
   },
   {
-    "proxy": "http://14.225.240.23:8562",
+    "proxy": "http://118.70.22.127:10001",
     "protocol": "http",
-    "ip": "14.225.240.23",
-    "port": 8562,
+    "ip": "118.70.22.127",
+    "port": 10001,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "VN",
-      "city": "Ho Chi Minh City"
+      "city": "Unknown"
     }
   }
 ]
