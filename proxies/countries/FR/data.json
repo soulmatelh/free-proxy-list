@@ -26,6 +26,32 @@
     }
   },
   {
+    "proxy": "socks4://173.212.215.22:7070",
+    "protocol": "socks4",
+    "ip": "173.212.215.22",
+    "port": 7070,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://94.23.222.122:14822",
+    "protocol": "socks4",
+    "ip": "94.23.222.122",
+    "port": 14822,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://91.121.88.53:443",
     "protocol": "http",
     "ip": "91.121.88.53",
@@ -195,19 +221,6 @@
     }
   },
   {
-    "proxy": "http://163.172.53.142:443",
-    "protocol": "http",
-    "ip": "163.172.53.142",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://163.172.167.48:443",
     "protocol": "http",
     "ip": "163.172.167.48",
@@ -286,6 +299,19 @@
     }
   },
   {
+    "proxy": "http://89.168.52.255:3210",
+    "protocol": "http",
+    "ip": "89.168.52.255",
+    "port": 3210,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://40.89.145.14:80",
     "protocol": "http",
     "ip": "40.89.145.14",
@@ -296,6 +322,19 @@
     "geolocation": {
       "country": "FR",
       "city": "Paris"
+    }
+  },
+  {
+    "proxy": "http://173.212.246.157:3128",
+    "protocol": "http",
+    "ip": "173.212.246.157",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Unknown"
     }
   },
   {
@@ -322,6 +361,19 @@
     "geolocation": {
       "country": "FR",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://173.212.222.244:8888",
+    "protocol": "http",
+    "ip": "173.212.222.244",
+    "port": 8888,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "FR",
+      "city": "Lauterbourg"
     }
   },
   {
@@ -452,19 +504,6 @@
     "geolocation": {
       "country": "FR",
       "city": "Paris"
-    }
-  },
-  {
-    "proxy": "http://173.212.222.244:8888",
-    "protocol": "http",
-    "ip": "173.212.222.244",
-    "port": 8888,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "FR",
-      "city": "Lauterbourg"
     }
   },
   {
