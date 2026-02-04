@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://45.236.112.9:60399",
+    "proxy": "http://206.62.64.34:8080",
     "protocol": "http",
-    "ip": "45.236.112.9",
-    "port": 60399,
+    "ip": "206.62.64.34",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +26,10 @@
     }
   },
   {
-    "proxy": "http://45.70.85.33:58080",
+    "proxy": "http://186.235.123.3:8080",
     "protocol": "http",
-    "ip": "45.70.85.33",
-    "port": 58080,
+    "ip": "186.235.123.3",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -52,22 +52,9 @@
     }
   },
   {
-    "proxy": "http://187.49.178.237:8080",
+    "proxy": "http://149.40.26.240:8080",
     "protocol": "http",
-    "ip": "187.49.178.237",
-    "port": 8080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://177.125.208.239:8080",
-    "protocol": "http",
-    "ip": "177.125.208.239",
+    "ip": "149.40.26.240",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -82,6 +69,19 @@
     "protocol": "http",
     "ip": "200.174.198.32",
     "port": 8888,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Indaiatuba"
+    }
+  },
+  {
+    "proxy": "http://138.36.22.229:8081",
+    "protocol": "http",
+    "ip": "138.36.22.229",
+    "port": 8081,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -91,9 +91,35 @@
     }
   },
   {
-    "proxy": "http://186.250.202.104:8080",
+    "proxy": "http://179.51.199.80:8099",
     "protocol": "http",
-    "ip": "186.250.202.104",
+    "ip": "179.51.199.80",
+    "port": 8099,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://186.215.87.194:6019",
+    "protocol": "http",
+    "ip": "186.215.87.194",
+    "port": 6019,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://201.157.235.197:8080",
+    "protocol": "http",
+    "ip": "201.157.235.197",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -104,35 +130,9 @@
     }
   },
   {
-    "proxy": "http://170.84.147.206:8087",
+    "proxy": "http://186.248.239.154:3128",
     "protocol": "http",
-    "ip": "170.84.147.206",
-    "port": 8087,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://179.109.80.115:23421",
-    "protocol": "http",
-    "ip": "179.109.80.115",
-    "port": 23421,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "BR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://179.42.6.24:3128",
-    "protocol": "http",
-    "ip": "179.42.6.24",
+    "ip": "186.248.239.154",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -143,10 +143,10 @@
     }
   },
   {
-    "proxy": "http://45.168.123.193:8080",
+    "proxy": "http://67.43.236.18:2551",
     "protocol": "http",
-    "ip": "45.168.123.193",
-    "port": 8080,
+    "ip": "67.43.236.18",
+    "port": 2551,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -156,16 +156,29 @@
     }
   },
   {
-    "proxy": "socks5://186.26.95.249:61445",
-    "protocol": "socks5",
-    "ip": "186.26.95.249",
-    "port": 61445,
+    "proxy": "http://72.10.160.170:2033",
+    "protocol": "http",
+    "ip": "72.10.160.170",
+    "port": 2033,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "BR",
-      "city": "S?o Jo?o de Meriti"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://187.63.9.62:63253",
+    "protocol": "socks5",
+    "ip": "187.63.9.62",
+    "port": 63253,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "BR",
+      "city": "Arraial do Cabo"
     }
   }
 ]

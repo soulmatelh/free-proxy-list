@@ -1,5 +1,18 @@
 [
   {
+    "proxy": "socks4://140.238.43.53:54322",
+    "protocol": "socks4",
+    "ip": "140.238.43.53",
+    "port": 54322,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://103.37.111.253:10086",
     "protocol": "http",
     "ip": "103.37.111.253",
@@ -78,48 +91,9 @@
     }
   },
   {
-    "proxy": "http://37.120.210.146:9443",
-    "protocol": "http",
-    "ip": "37.120.210.146",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://37.120.210.66:9443",
-    "protocol": "http",
-    "ip": "37.120.210.66",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://20.78.213.56:443",
     "protocol": "http",
     "ip": "20.78.213.56",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://103.100.159.145:443",
-    "protocol": "http",
-    "ip": "103.100.159.145",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -165,7 +139,7 @@
     "score": 1,
     "geolocation": {
       "country": "JP",
-      "city": "Unknown"
+      "city": "Tokyo"
     }
   },
   {
@@ -178,39 +152,26 @@
     "score": 1,
     "geolocation": {
       "country": "JP",
-      "city": "Unknown"
+      "city": "Tokyo"
     }
   },
   {
-    "proxy": "http://20.27.15.49:8561",
+    "proxy": "http://20.78.26.206:8561",
     "protocol": "http",
-    "ip": "20.27.15.49",
+    "ip": "20.78.26.206",
     "port": 8561,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "JP",
-      "city": "Unknown"
+      "city": "Tokyo"
     }
   },
   {
     "proxy": "http://20.210.39.153:8561",
     "protocol": "http",
     "ip": "20.210.39.153",
-    "port": 8561,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://20.27.15.111:8561",
-    "protocol": "http",
-    "ip": "20.27.15.111",
     "port": 8561,
     "https": false,
     "anonymity": "transparent",
@@ -230,7 +191,7 @@
     "score": 1,
     "geolocation": {
       "country": "JP",
-      "city": "Unknown"
+      "city": "Tokyo"
     }
   },
   {
@@ -343,19 +304,6 @@
     "ip": "116.80.62.22",
     "port": 3128,
     "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Yokohama"
-    }
-  },
-  {
-    "proxy": "http://157.120.34.237:3128",
-    "protocol": "http",
-    "ip": "157.120.34.237",
-    "port": 3128,
-    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -403,19 +351,6 @@
     }
   },
   {
-    "proxy": "http://94.177.131.12:3128",
-    "protocol": "http",
-    "ip": "94.177.131.12",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://85.234.83.80:3128",
     "protocol": "http",
     "ip": "85.234.83.80",
@@ -426,32 +361,6 @@
     "geolocation": {
       "country": "JP",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://150.230.207.84:16728",
-    "protocol": "http",
-    "ip": "150.230.207.84",
-    "port": 16728,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://13.230.34.30:80",
-    "protocol": "http",
-    "ip": "13.230.34.30",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Tokyo"
     }
   },
   {
@@ -468,16 +377,16 @@
     }
   },
   {
-    "proxy": "http://133.18.234.13:80",
+    "proxy": "http://13.230.34.30:80",
     "protocol": "http",
-    "ip": "133.18.234.13",
+    "ip": "13.230.34.30",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "JP",
-      "city": ""
+      "city": "Tokyo"
     }
   }
 ]
