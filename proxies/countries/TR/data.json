@@ -1,5 +1,31 @@
 [
   {
+    "proxy": "http://176.236.46.147:80",
+    "protocol": "http",
+    "ip": "176.236.46.147",
+    "port": 80,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Istanbul"
+    }
+  },
+  {
+    "proxy": "http://188.132.222.36:8080",
+    "protocol": "http",
+    "ip": "188.132.222.36",
+    "port": 8080,
+    "https": false,
+    "anonymity": "elite",
+    "score": 1,
+    "geolocation": {
+      "country": "TR",
+      "city": "Antakya"
+    }
+  },
+  {
     "proxy": "socks4://88.245.138.87:1080",
     "protocol": "socks4",
     "ip": "88.245.138.87",
@@ -23,19 +49,6 @@
     "geolocation": {
       "country": "TR",
       "city": "Gaziantep"
-    }
-  },
-  {
-    "proxy": "http://176.236.46.147:80",
-    "protocol": "http",
-    "ip": "176.236.46.147",
-    "port": 80,
-    "https": false,
-    "anonymity": "elite",
-    "score": 1,
-    "geolocation": {
-      "country": "TR",
-      "city": "Istanbul"
     }
   }
 ]
