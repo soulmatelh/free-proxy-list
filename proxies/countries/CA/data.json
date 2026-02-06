@@ -13,9 +13,35 @@
     }
   },
   {
-    "proxy": "socks4://45.73.0.118:5678",
+    "proxy": "socks4://192.111.129.150:4145",
     "protocol": "socks4",
-    "ip": "45.73.0.118",
+    "ip": "192.111.129.150",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "North York"
+    }
+  },
+  {
+    "proxy": "socks4://192.111.134.10:4145",
+    "protocol": "socks4",
+    "ip": "192.111.134.10",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "socks4://24.76.21.10:5678",
+    "protocol": "socks4",
+    "ip": "24.76.21.10",
     "port": 5678,
     "https": false,
     "anonymity": "transparent",
@@ -78,6 +104,19 @@
     }
   },
   {
+    "proxy": "http://149.56.24.51:3128",
+    "protocol": "http",
+    "ip": "149.56.24.51",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://72.10.164.178:11805",
     "protocol": "http",
     "ip": "72.10.164.178",
@@ -104,19 +143,6 @@
     }
   },
   {
-    "proxy": "socks4://192.111.134.10:4145",
-    "protocol": "socks4",
-    "ip": "192.111.134.10",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": ""
-    }
-  },
-  {
     "proxy": "socks4://143.110.217.153:1080",
     "protocol": "socks4",
     "ip": "143.110.217.153",
@@ -127,19 +153,6 @@
     "geolocation": {
       "country": "CA",
       "city": "Toronto"
-    }
-  },
-  {
-    "proxy": "socks4://192.111.129.150:4145",
-    "protocol": "socks4",
-    "ip": "192.111.129.150",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "North York"
     }
   },
   {
