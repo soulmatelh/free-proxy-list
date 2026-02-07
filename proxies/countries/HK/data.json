@@ -39,22 +39,9 @@
     }
   },
   {
-    "proxy": "http://84.17.57.113:9443",
+    "proxy": "http://218.252.118.9:443",
     "protocol": "http",
-    "ip": "84.17.57.113",
-    "port": 9443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://218.252.192.228:443",
-    "protocol": "http",
-    "ip": "218.252.192.228",
+    "ip": "218.252.118.9",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -156,6 +143,19 @@
     }
   },
   {
+    "proxy": "http://218.252.118.9:80",
+    "protocol": "http",
+    "ip": "218.252.118.9",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://218.252.192.228:80",
     "protocol": "http",
     "ip": "218.252.192.228",
@@ -179,6 +179,45 @@
     "geolocation": {
       "country": "HK",
       "city": ""
+    }
+  },
+  {
+    "proxy": "http://218.252.100.222:80",
+    "protocol": "http",
+    "ip": "218.252.100.222",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://103.253.43.144:80",
+    "protocol": "http",
+    "ip": "103.253.43.144",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://221.124.203.24:80",
+    "protocol": "http",
+    "ip": "221.124.203.24",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
     }
   },
   {
@@ -221,97 +260,6 @@
     }
   },
   {
-    "proxy": "http://160.238.65.3:3128",
-    "protocol": "http",
-    "ip": "160.238.65.3",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.5:3128",
-    "protocol": "http",
-    "ip": "160.238.65.5",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.4:3128",
-    "protocol": "http",
-    "ip": "160.238.65.4",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.8:3128",
-    "protocol": "http",
-    "ip": "160.238.65.8",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.7:3128",
-    "protocol": "http",
-    "ip": "160.238.65.7",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.9:3128",
-    "protocol": "http",
-    "ip": "160.238.65.9",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://160.238.65.2:3128",
-    "protocol": "http",
-    "ip": "160.238.65.2",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://47.238.203.170:50000",
     "protocol": "http",
     "ip": "47.238.203.170",
@@ -322,19 +270,6 @@
     "geolocation": {
       "country": "HK",
       "city": "Hong Kong"
-    }
-  },
-  {
-    "proxy": "http://103.253.43.144:80",
-    "protocol": "http",
-    "ip": "103.253.43.144",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": ""
     }
   }
 ]
