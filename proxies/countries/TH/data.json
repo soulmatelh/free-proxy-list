@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks4://182.52.131.16:4145",
+    "proxy": "socks4://1.179.172.45:31225",
     "protocol": "socks4",
-    "ip": "182.52.131.16",
-    "port": 4145,
+    "ip": "1.179.172.45",
+    "port": 31225,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,9 +26,9 @@
     }
   },
   {
-    "proxy": "http://1.1.189.58:8080",
+    "proxy": "http://182.52.229.165:8080",
     "protocol": "http",
-    "ip": "1.1.189.58",
+    "ip": "182.52.229.165",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -39,9 +39,35 @@
     }
   },
   {
-    "proxy": "http://203.172.136.211:8080",
+    "proxy": "http://125.27.192.162:8081",
     "protocol": "http",
-    "ip": "203.172.136.211",
+    "ip": "125.27.192.162",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://58.137.174.101:8080",
+    "protocol": "http",
+    "ip": "58.137.174.101",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://61.91.202.211:8080",
+    "protocol": "http",
+    "ip": "61.91.202.211",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -65,9 +91,9 @@
     }
   },
   {
-    "proxy": "http://171.4.177.114:8080",
+    "proxy": "http://203.150.172.151:8080",
     "protocol": "http",
-    "ip": "171.4.177.114",
+    "ip": "203.150.172.151",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -78,9 +104,35 @@
     }
   },
   {
-    "proxy": "http://49.48.93.141:8080",
+    "proxy": "http://203.150.128.154:8080",
     "protocol": "http",
-    "ip": "49.48.93.141",
+    "ip": "203.150.128.154",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://203.146.80.102:8080",
+    "protocol": "http",
+    "ip": "203.146.80.102",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://171.4.177.114:8080",
+    "protocol": "http",
+    "ip": "171.4.177.114",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
@@ -117,16 +169,68 @@
     }
   },
   {
-    "proxy": "socks4://49.0.87.62:1080",
-    "protocol": "socks4",
-    "ip": "49.0.87.62",
-    "port": 1080,
+    "proxy": "http://125.24.145.3:8080",
+    "protocol": "http",
+    "ip": "125.24.145.3",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "TH",
-      "city": "Nonthaburi"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://202.129.206.239:3128",
+    "protocol": "http",
+    "ip": "202.129.206.239",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://125.24.61.182:8080",
+    "protocol": "http",
+    "ip": "125.24.61.182",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://203.150.113.153:8080",
+    "protocol": "http",
+    "ip": "203.150.113.153",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://159.192.226.237:8080",
+    "protocol": "http",
+    "ip": "159.192.226.237",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
     }
   }
 ]
