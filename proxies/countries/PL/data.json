@@ -26,49 +26,36 @@
     }
   },
   {
-    "proxy": "socks4://193.243.154.146:4145",
+    "proxy": "socks4://185.79.243.153:38431",
     "protocol": "socks4",
-    "ip": "193.243.154.146",
-    "port": 4145,
+    "ip": "185.79.243.153",
+    "port": 38431,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Rzesz?w"
+      "city": "Unknown"
     }
   },
   {
-    "proxy": "socks4://185.79.243.74:5678",
+    "proxy": "socks4://46.171.28.162:59311",
     "protocol": "socks4",
-    "ip": "185.79.243.74",
+    "ip": "46.171.28.162",
+    "port": 59311,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://83.168.101.27:5678",
+    "protocol": "socks4",
+    "ip": "83.168.101.27",
     "port": 5678,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://185.14.149.33:4145",
-    "protocol": "socks4",
-    "ip": "185.14.149.33",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://78.31.92.145:1080",
-    "protocol": "socks4",
-    "ip": "78.31.92.145",
-    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -82,19 +69,6 @@
     "protocol": "http",
     "ip": "151.115.78.51",
     "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://37.120.156.34:9443",
-    "protocol": "http",
-    "ip": "37.120.156.34",
-    "port": 9443,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -130,6 +104,19 @@
     }
   },
   {
+    "proxy": "http://212.127.95.235:8081",
+    "protocol": "http",
+    "ip": "212.127.95.235",
+    "port": 8081,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Wroclaw"
+    }
+  },
+  {
     "proxy": "http://79.110.200.27:8000",
     "protocol": "http",
     "ip": "79.110.200.27",
@@ -156,6 +143,19 @@
     }
   },
   {
+    "proxy": "http://213.73.25.230:8080",
+    "protocol": "http",
+    "ip": "213.73.25.230",
+    "port": 8080,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": ""
+    }
+  },
+  {
     "proxy": "http://178.212.144.7:80",
     "protocol": "http",
     "ip": "178.212.144.7",
@@ -169,9 +169,9 @@
     }
   },
   {
-    "proxy": "http://188.116.37.3:8090",
+    "proxy": "http://185.28.250.90:8090",
     "protocol": "http",
-    "ip": "188.116.37.3",
+    "ip": "185.28.250.90",
     "port": 8090,
     "https": false,
     "anonymity": "transparent",
@@ -182,10 +182,10 @@
     }
   },
   {
-    "proxy": "http://79.110.202.131:8081",
+    "proxy": "http://148.81.121.5:8080",
     "protocol": "http",
-    "ip": "79.110.202.131",
-    "port": 8081,
+    "ip": "148.81.121.5",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -195,16 +195,16 @@
     }
   },
   {
-    "proxy": "http://212.127.95.235:8081",
-    "protocol": "http",
-    "ip": "212.127.95.235",
-    "port": 8081,
+    "proxy": "socks4://193.243.154.146:4145",
+    "protocol": "socks4",
+    "ip": "193.243.154.146",
+    "port": 4145,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "PL",
-      "city": "Wroclaw"
+      "city": "Rzesz?w"
     }
   }
 ]
