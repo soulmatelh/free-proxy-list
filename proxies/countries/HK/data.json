@@ -65,45 +65,6 @@
     }
   },
   {
-    "proxy": "socks5://123.54.197.16:21319",
-    "protocol": "socks5",
-    "ip": "123.54.197.16",
-    "port": 21319,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://123.54.197.20:23883",
-    "protocol": "socks5",
-    "ip": "123.54.197.20",
-    "port": 23883,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://123.54.197.17:23103",
-    "protocol": "socks5",
-    "ip": "123.54.197.17",
-    "port": 23103,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "socks5://85.121.244.176:50161",
     "protocol": "socks5",
     "ip": "85.121.244.176",
@@ -169,19 +130,6 @@
     }
   },
   {
-    "proxy": "http://124.156.179.148:8443",
-    "protocol": "http",
-    "ip": "124.156.179.148",
-    "port": 8443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "HK",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://47.240.86.21:3128",
     "protocol": "http",
     "ip": "47.240.86.21",
@@ -208,10 +156,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41487",
+    "proxy": "http://47.243.181.85:28085",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41487,
+    "port": 28085,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -221,11 +169,11 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:28085",
+    "proxy": "http://47.56.110.204:8990",
     "protocol": "http",
-    "ip": "47.243.181.85",
-    "port": 28085,
-    "https": true,
+    "ip": "47.56.110.204",
+    "port": 8990,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -283,6 +231,19 @@
     "geolocation": {
       "country": "HK",
       "city": ""
+    }
+  },
+  {
+    "proxy": "http://39.109.113.97:4090",
+    "protocol": "http",
+    "ip": "39.109.113.97",
+    "port": 4090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "HK",
+      "city": "Unknown"
     }
   },
   {
