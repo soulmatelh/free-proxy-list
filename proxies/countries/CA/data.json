@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "http://104.37.66.50:3128",
-    "protocol": "http",
-    "ip": "104.37.66.50",
-    "port": 3128,
+    "proxy": "socks5://152.53.171.242:12979",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 12979,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -23,6 +23,19 @@
     "geolocation": {
       "country": "CA",
       "city": "North York"
+    }
+  },
+  {
+    "proxy": "http://104.37.66.50:3128",
+    "protocol": "http",
+    "ip": "104.37.66.50",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
     }
   },
   {
