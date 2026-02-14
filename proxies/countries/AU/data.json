@@ -13,11 +13,11 @@
     }
   },
   {
-    "proxy": "http://103.62.50.130:443",
-    "protocol": "http",
-    "ip": "103.62.50.130",
-    "port": 443,
-    "https": true,
+    "proxy": "socks5://152.53.171.242:12354",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 12354,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -26,11 +26,37 @@
     }
   },
   {
-    "proxy": "http://103.62.50.130:9443",
-    "protocol": "http",
-    "ip": "103.62.50.130",
-    "port": 9443,
-    "https": true,
+    "proxy": "socks5://152.53.171.242:10003",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 10003,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://152.53.171.242:23397",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 23397,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://152.53.171.242:21968",
+    "protocol": "socks5",
+    "ip": "152.53.171.242",
+    "port": 21968,
+    "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -65,9 +91,35 @@
     }
   },
   {
+    "proxy": "http://72.10.160.90:11015",
+    "protocol": "http",
+    "ip": "72.10.160.90",
+    "port": 11015,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://4.195.16.140:80",
     "protocol": "http",
     "ip": "4.195.16.140",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AU",
+      "city": "Sydney"
+    }
+  },
+  {
+    "proxy": "http://139.99.237.62:80",
+    "protocol": "http",
+    "ip": "139.99.237.62",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
