@@ -39,6 +39,19 @@
     }
   },
   {
+    "proxy": "http://182.155.200.61:443",
+    "protocol": "http",
+    "ip": "182.155.200.61",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://47.243.181.85:41295",
     "protocol": "http",
     "ip": "47.243.181.85",
@@ -65,6 +78,19 @@
     }
   },
   {
+    "proxy": "http://47.243.181.85:41318",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 41318,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://47.243.181.85:41302",
     "protocol": "http",
     "ip": "47.243.181.85",
@@ -78,10 +104,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41130",
+    "proxy": "http://47.243.181.85:41305",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41130,
+    "port": 41305,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -91,10 +117,23 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41300",
+    "proxy": "http://47.243.181.85:55002",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41300,
+    "port": 55002,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://47.243.181.85:55008",
+    "protocol": "http",
+    "ip": "47.243.181.85",
+    "port": 55008,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -156,10 +195,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41287",
+    "proxy": "http://47.243.181.85:41131",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 41287,
+    "port": 41131,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -169,10 +208,10 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:55012",
+    "proxy": "http://47.243.181.85:41287",
     "protocol": "http",
     "ip": "47.243.181.85",
-    "port": 55012,
+    "port": 41287,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
@@ -247,10 +286,36 @@
     }
   },
   {
-    "proxy": "http://220.128.223.136:8083",
+    "proxy": "http://182.155.254.159:80",
     "protocol": "http",
-    "ip": "220.128.223.136",
-    "port": 8083,
+    "ip": "182.155.254.159",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://123.205.71.210:80",
+    "protocol": "http",
+    "ip": "123.205.71.210",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TW",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://182.155.200.61:80",
+    "protocol": "http",
+    "ip": "182.155.200.61",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
