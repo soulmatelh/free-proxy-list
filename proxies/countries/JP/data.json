@@ -26,19 +26,6 @@
     }
   },
   {
-    "proxy": "http://203.189.96.232:443",
-    "protocol": "http",
-    "ip": "203.189.96.232",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://103.37.111.253:10087",
     "protocol": "http",
     "ip": "103.37.111.253",
@@ -208,10 +195,10 @@
     }
   },
   {
-    "proxy": "http://140.227.61.201:3128",
+    "proxy": "http://160.248.7.177:80",
     "protocol": "http",
-    "ip": "140.227.61.201",
-    "port": 3128,
+    "ip": "160.248.7.177",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -221,16 +208,16 @@
     }
   },
   {
-    "proxy": "http://72.10.160.172:5597",
+    "proxy": "http://160.251.142.232:80",
     "protocol": "http",
-    "ip": "72.10.160.172",
-    "port": 5597,
+    "ip": "160.251.142.232",
+    "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "JP",
-      "city": "Unknown"
+      "city": ""
     }
   },
   {
@@ -273,9 +260,22 @@
     }
   },
   {
-    "proxy": "http://157.120.34.237:3128",
+    "proxy": "http://116.80.62.22:3128",
     "protocol": "http",
-    "ip": "157.120.34.237",
+    "ip": "116.80.62.22",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://94.177.131.33:3128",
+    "protocol": "http",
+    "ip": "94.177.131.33",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -309,19 +309,6 @@
     "geolocation": {
       "country": "JP",
       "city": "Tokyo"
-    }
-  },
-  {
-    "proxy": "http://160.251.142.232:80",
-    "protocol": "http",
-    "ip": "160.251.142.232",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": ""
     }
   },
   {
