@@ -26,6 +26,19 @@
     }
   },
   {
+    "proxy": "http://203.189.96.232:443",
+    "protocol": "http",
+    "ip": "203.189.96.232",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://103.37.111.253:10087",
     "protocol": "http",
     "ip": "103.37.111.253",
@@ -143,19 +156,6 @@
     }
   },
   {
-    "proxy": "http://47.243.181.85:41419",
-    "protocol": "http",
-    "ip": "47.243.181.85",
-    "port": 41419,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://47.243.181.85:41402",
     "protocol": "http",
     "ip": "47.243.181.85",
@@ -208,19 +208,6 @@
     }
   },
   {
-    "proxy": "http://160.251.142.232:80",
-    "protocol": "http",
-    "ip": "160.251.142.232",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "JP",
-      "city": ""
-    }
-  },
-  {
     "proxy": "http://74.176.195.135:80",
     "protocol": "http",
     "ip": "74.176.195.135",
@@ -247,9 +234,22 @@
     }
   },
   {
-    "proxy": "http://157.120.34.237:3128",
+    "proxy": "http://139.59.103.183:80",
     "protocol": "http",
-    "ip": "157.120.34.237",
+    "ip": "139.59.103.183",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://94.177.131.33:3128",
+    "protocol": "http",
+    "ip": "94.177.131.33",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
@@ -270,6 +270,19 @@
     "geolocation": {
       "country": "JP",
       "city": "Tokyo"
+    }
+  },
+  {
+    "proxy": "http://160.251.142.232:80",
+    "protocol": "http",
+    "ip": "160.251.142.232",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "JP",
+      "city": ""
     }
   },
   {
