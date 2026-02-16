@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks5://195.14.26.113:1080",
-    "protocol": "socks5",
-    "ip": "195.14.26.113",
-    "port": 1080,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PL",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://151.115.78.51:443",
     "protocol": "http",
     "ip": "151.115.78.51",
@@ -49,6 +36,19 @@
     "geolocation": {
       "country": "PL",
       "city": "Wroclaw"
+    }
+  },
+  {
+    "proxy": "http://79.110.200.27:8000",
+    "protocol": "http",
+    "ip": "79.110.200.27",
+    "port": 8000,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PL",
+      "city": "Unknown"
     }
   },
   {
