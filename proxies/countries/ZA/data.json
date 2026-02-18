@@ -39,10 +39,23 @@
     }
   },
   {
-    "proxy": "http://160.119.58.4:8088",
+    "proxy": "http://169.255.77.150:9999",
     "protocol": "http",
-    "ip": "160.119.58.4",
-    "port": 8088,
+    "ip": "169.255.77.150",
+    "port": 9999,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "ZA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://169.159.128.76:8865",
+    "protocol": "http",
+    "ip": "169.159.128.76",
+    "port": 8865,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
