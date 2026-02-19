@@ -1,18 +1,5 @@
 [
   {
-    "proxy": "socks5://121.169.46.116:1090",
-    "protocol": "socks5",
-    "ip": "121.169.46.116",
-    "port": 1090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Osan"
-    }
-  },
-  {
     "proxy": "socks5://132.145.93.138:1080",
     "protocol": "socks5",
     "ip": "132.145.93.138",
@@ -26,9 +13,9 @@
     }
   },
   {
-    "proxy": "http://221.153.152.43:443",
+    "proxy": "http://221.153.92.39:443",
     "protocol": "http",
-    "ip": "221.153.152.43",
+    "ip": "221.153.92.39",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -39,16 +26,16 @@
     }
   },
   {
-    "proxy": "http://183.109.79.187:80",
+    "proxy": "http://211.250.42.219:443",
     "protocol": "http",
-    "ip": "183.109.79.187",
-    "port": 80,
-    "https": false,
+    "ip": "211.250.42.219",
+    "port": 443,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Yeongdeungpo-gu"
+      "city": "Unknown"
     }
   },
   {
@@ -65,42 +52,16 @@
     }
   },
   {
-    "proxy": "http://210.223.44.230:3128",
+    "proxy": "http://211.230.49.122:3128",
     "protocol": "http",
-    "ip": "210.223.44.230",
+    "ip": "211.230.49.122",
     "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://183.110.216.128:8090",
-    "protocol": "http",
-    "ip": "183.110.216.128",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": ""
-    }
-  },
-  {
-    "proxy": "http://183.110.216.159:8090",
-    "protocol": "http",
-    "ip": "183.110.216.159",
-    "port": 8090,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "KR",
-      "city": "Unknown"
+      "city": "Seo-gu"
     }
   },
   {
@@ -130,16 +91,29 @@
     }
   },
   {
-    "proxy": "http://221.153.152.43:80",
+    "proxy": "http://211.250.42.219:80",
     "protocol": "http",
-    "ip": "221.153.152.43",
+    "ip": "211.250.42.219",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Suwon"
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://43.200.30.144:80",
+    "protocol": "http",
+    "ip": "43.200.30.144",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
     }
   },
   {
@@ -147,6 +121,97 @@
     "protocol": "http",
     "ip": "222.234.52.105",
     "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://221.153.92.39:80",
+    "protocol": "http",
+    "ip": "221.153.92.39",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://222.102.86.137:3028",
+    "protocol": "http",
+    "ip": "222.102.86.137",
+    "port": 3028,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://175.215.145.203:3040",
+    "protocol": "http",
+    "ip": "175.215.145.203",
+    "port": 3040,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://121.147.253.205:3172",
+    "protocol": "http",
+    "ip": "121.147.253.205",
+    "port": 3172,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://121.168.58.144:3128",
+    "protocol": "http",
+    "ip": "121.168.58.144",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://211.171.114.154:3128",
+    "protocol": "http",
+    "ip": "211.171.114.154",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://222.102.86.137:3016",
+    "protocol": "http",
+    "ip": "222.102.86.137",
+    "port": 3016,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -169,16 +234,55 @@
     }
   },
   {
-    "proxy": "http://211.230.49.122:3128",
-    "protocol": "http",
-    "ip": "211.230.49.122",
-    "port": 3128,
+    "proxy": "socks5://121.169.46.116:1090",
+    "protocol": "socks5",
+    "ip": "121.169.46.116",
+    "port": 1090,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "KR",
-      "city": "Seo-gu"
+      "city": "Osan"
+    }
+  },
+  {
+    "proxy": "http://183.110.216.128:8090",
+    "protocol": "http",
+    "ip": "183.110.216.128",
+    "port": 8090,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": ""
+    }
+  },
+  {
+    "proxy": "http://221.153.152.43:80",
+    "protocol": "http",
+    "ip": "221.153.152.43",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Suwon"
+    }
+  },
+  {
+    "proxy": "http://183.109.79.187:80",
+    "protocol": "http",
+    "ip": "183.109.79.187",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "KR",
+      "city": "Yeongdeungpo-gu"
     }
   }
 ]
