@@ -39,10 +39,23 @@
     }
   },
   {
-    "proxy": "http://116.102.242.52:10006",
+    "proxy": "http://103.3.246.71:3128",
+    "protocol": "http",
+    "ip": "103.3.246.71",
+    "port": 3128,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "VN",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://116.102.242.52:10011",
     "protocol": "http",
     "ip": "116.102.242.52",
-    "port": 10006,
+    "port": 10011,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
