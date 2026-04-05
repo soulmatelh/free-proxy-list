@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "http://120.28.192.179:5050",
+    "proxy": "http://195.86.215.2:3128",
     "protocol": "http",
-    "ip": "120.28.192.179",
-    "port": 5050,
+    "ip": "195.86.215.2",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,29 +26,16 @@
     }
   },
   {
-    "proxy": "http://180.190.202.141:8082",
+    "proxy": "http://120.28.152.190:8082",
     "protocol": "http",
-    "ip": "180.190.202.141",
+    "ip": "120.28.152.190",
     "port": 8082,
     "https": false,
-    "anonymity": "transparent",
+    "anonymity": "elite",
     "score": 1,
     "geolocation": {
       "country": "PH",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://122.52.34.55:8082",
-    "protocol": "http",
-    "ip": "122.52.34.55",
-    "port": 8082,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PH",
-      "city": "Unknown"
+      "city": "San Juan"
     }
   }
 ]
