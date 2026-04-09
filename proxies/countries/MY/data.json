@@ -1,8 +1,99 @@
 [
   {
+    "proxy": "socks5://206.123.156.181:5751",
+    "protocol": "socks5",
+    "ip": "206.123.156.181",
+    "port": 5751,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.233:5288",
+    "protocol": "socks5",
+    "ip": "206.123.156.233",
+    "port": 5288,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://94.130.16.48:30028",
+    "protocol": "socks5",
+    "ip": "94.130.16.48",
+    "port": 30028,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.178:6133",
+    "protocol": "socks5",
+    "ip": "206.123.156.178",
+    "port": 6133,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.176:4960",
+    "protocol": "socks5",
+    "ip": "206.123.156.176",
+    "port": 4960,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.200:9156",
+    "protocol": "socks5",
+    "ip": "206.123.156.200",
+    "port": 9156,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://210.48.154.99:443",
     "protocol": "http",
     "ip": "210.48.154.99",
+    "port": 443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://210.19.96.163:443",
+    "protocol": "http",
+    "ip": "210.19.96.163",
     "port": 443,
     "https": true,
     "anonymity": "transparent",
@@ -49,6 +140,19 @@
     "geolocation": {
       "country": "MY",
       "city": "Kuala Lumpur"
+    }
+  },
+  {
+    "proxy": "http://219.93.101.63:80",
+    "protocol": "http",
+    "ip": "219.93.101.63",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "MY",
+      "city": "Shah Alam"
     }
   }
 ]
