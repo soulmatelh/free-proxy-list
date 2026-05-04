@@ -1,22 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.203:7422",
+    "proxy": "socks5://206.123.156.204:4952",
     "protocol": "socks5",
-    "ip": "206.123.156.203",
-    "port": 7422,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.215:6168",
-    "protocol": "socks5",
-    "ip": "206.123.156.215",
-    "port": 6168,
+    "ip": "206.123.156.204",
+    "port": 4952,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -39,49 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.215:6153",
+    "proxy": "socks5://206.123.156.221:6032",
     "protocol": "socks5",
-    "ip": "206.123.156.215",
-    "port": 6153,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.211:27949",
-    "protocol": "socks5",
-    "ip": "206.123.156.211",
-    "port": 27949,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.236:5356",
-    "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 5356,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "AT",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks5://206.123.156.215:7850",
-    "protocol": "socks5",
-    "ip": "206.123.156.215",
-    "port": 7850,
+    "ip": "206.123.156.221",
+    "port": 6032,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -147,6 +95,19 @@
     "protocol": "http",
     "ip": "195.192.209.130",
     "port": 8443,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "AT",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://13.41.196.179:23924",
+    "protocol": "http",
+    "ip": "13.41.196.179",
+    "port": 23924,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
