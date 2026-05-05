@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://112.208.164.52:8082",
+    "proxy": "http://139.135.181.42:8082",
     "protocol": "http",
-    "ip": "112.208.164.52",
+    "ip": "139.135.181.42",
     "port": 8082,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "PH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://120.28.220.169:8080",
+    "protocol": "http",
+    "ip": "120.28.220.169",
+    "port": 8080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
