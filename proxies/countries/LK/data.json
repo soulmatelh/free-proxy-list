@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "socks5://206.123.156.228:6505",
+    "proxy": "socks5://206.123.156.216:4963",
+    "protocol": "socks5",
+    "ip": "206.123.156.216",
+    "port": 4963,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.228:8627",
     "protocol": "socks5",
     "ip": "206.123.156.228",
-    "port": 6505,
+    "port": 8627,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +26,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.195:5980",
+    "proxy": "socks5://206.123.156.204:6781",
     "protocol": "socks5",
-    "ip": "206.123.156.195",
-    "port": 5980,
+    "ip": "206.123.156.204",
+    "port": 6781,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,10 +39,49 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.236:5098",
+    "proxy": "socks5://206.123.156.204:9352",
     "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 5098,
+    "ip": "206.123.156.204",
+    "port": 9352,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.211:4650",
+    "protocol": "socks5",
+    "ip": "206.123.156.211",
+    "port": 4650,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.201:5311",
+    "protocol": "socks5",
+    "ip": "206.123.156.201",
+    "port": 5311,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LK",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.198:8177",
+    "protocol": "socks5",
+    "ip": "206.123.156.198",
+    "port": 8177,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
