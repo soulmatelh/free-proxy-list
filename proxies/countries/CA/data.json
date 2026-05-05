@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.236:24029",
+    "proxy": "socks5://206.123.156.220:8555",
     "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 24029,
+    "ip": "206.123.156.220",
+    "port": 8555,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.236:24166",
+    "proxy": "socks5://206.123.156.215:9648",
     "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 24166,
+    "ip": "206.123.156.215",
+    "port": 9648,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -31,6 +31,32 @@
     "ip": "173.180.221.166",
     "port": 1080,
     "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://192.111.129.150:4145",
+    "protocol": "socks4",
+    "ip": "192.111.129.150",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "North York"
+    }
+  },
+  {
+    "proxy": "http://149.57.28.9:9443",
+    "protocol": "http",
+    "ip": "149.57.28.9",
+    "port": 9443,
+    "https": true,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
@@ -182,29 +208,16 @@
     }
   },
   {
-    "proxy": "http://54.39.154.107:8082",
+    "proxy": "http://199.68.217.2:3128",
     "protocol": "http",
-    "ip": "54.39.154.107",
-    "port": 8082,
+    "ip": "199.68.217.2",
+    "port": 3128,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CA",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://192.111.129.150:4145",
-    "protocol": "socks4",
-    "ip": "192.111.129.150",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "North York"
     }
   },
   {

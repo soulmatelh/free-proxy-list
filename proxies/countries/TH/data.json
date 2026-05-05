@@ -13,9 +13,22 @@
     }
   },
   {
-    "proxy": "http://203.150.128.152:8080",
+    "proxy": "http://203.150.113.234:57322",
     "protocol": "http",
-    "ip": "203.150.128.152",
+    "ip": "203.150.113.234",
+    "port": 57322,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "TH",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://184.82.173.250:8080",
+    "protocol": "http",
+    "ip": "184.82.173.250",
     "port": 8080,
     "https": false,
     "anonymity": "transparent",
