@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.236:7849",
+    "proxy": "socks5://206.123.156.211:5554",
     "protocol": "socks5",
-    "ip": "206.123.156.236",
-    "port": 7849,
+    "ip": "206.123.156.211",
+    "port": 5554,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -16,19 +16,6 @@
     "proxy": "http://190.119.132.62:80",
     "protocol": "http",
     "ip": "190.119.132.62",
-    "port": 80,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "PE",
-      "city": "Lima"
-    }
-  },
-  {
-    "proxy": "http://190.119.132.61:80",
-    "protocol": "http",
-    "ip": "190.119.132.61",
     "port": 80,
     "https": false,
     "anonymity": "transparent",
