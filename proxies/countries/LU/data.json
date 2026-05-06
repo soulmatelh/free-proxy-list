@@ -1,9 +1,22 @@
 [
   {
-    "proxy": "http://34.246.223.187:51429",
+    "proxy": "http://34.241.123.181:31822",
     "protocol": "http",
-    "ip": "34.246.223.187",
-    "port": 51429,
+    "ip": "34.241.123.181",
+    "port": 31822,
+    "https": true,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "LU",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "http://40.177.99.164:31337",
+    "protocol": "http",
+    "ip": "40.177.99.164",
+    "port": 31337,
     "https": true,
     "anonymity": "transparent",
     "score": 1,
