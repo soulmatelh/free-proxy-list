@@ -1,9 +1,9 @@
 [
   {
-    "proxy": "socks5://206.123.156.227:5320",
+    "proxy": "socks5://184.95.220.42:1080",
     "protocol": "socks5",
-    "ip": "206.123.156.227",
-    "port": 5320,
+    "ip": "184.95.220.42",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -13,10 +13,10 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.187:10979",
+    "proxy": "socks5://149.28.11.32:1080",
     "protocol": "socks5",
-    "ip": "206.123.156.187",
-    "port": 10979,
+    "ip": "149.28.11.32",
+    "port": 1080,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -26,16 +26,42 @@
     }
   },
   {
-    "proxy": "socks5://206.123.156.228:7835",
+    "proxy": "socks5://206.123.156.217:12487",
     "protocol": "socks5",
-    "ip": "206.123.156.228",
-    "port": 7835,
+    "ip": "206.123.156.217",
+    "port": 12487,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
     "geolocation": {
       "country": "CA",
       "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.220:8555",
+    "protocol": "socks5",
+    "ip": "206.123.156.220",
+    "port": 8555,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks4://192.111.129.150:4145",
+    "protocol": "socks4",
+    "ip": "192.111.129.150",
+    "port": 4145,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "CA",
+      "city": "North York"
     }
   },
   {
@@ -179,32 +205,6 @@
     "geolocation": {
       "country": "CA",
       "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "http://199.68.217.2:3128",
-    "protocol": "http",
-    "ip": "199.68.217.2",
-    "port": 3128,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "Unknown"
-    }
-  },
-  {
-    "proxy": "socks4://192.111.129.150:4145",
-    "protocol": "socks4",
-    "ip": "192.111.129.150",
-    "port": 4145,
-    "https": false,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "CA",
-      "city": "North York"
     }
   },
   {
