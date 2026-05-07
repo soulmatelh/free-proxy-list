@@ -1,5 +1,44 @@
 [
   {
+    "proxy": "socks5://206.123.156.215:4998",
+    "protocol": "socks5",
+    "ip": "206.123.156.215",
+    "port": 4998,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.201:8572",
+    "protocol": "socks5",
+    "ip": "206.123.156.201",
+    "port": 8572,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
+    "proxy": "socks5://206.123.156.236:13444",
+    "protocol": "socks5",
+    "ip": "206.123.156.236",
+    "port": 13444,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Unknown"
+    }
+  },
+  {
     "proxy": "http://128.199.207.200:443",
     "protocol": "http",
     "ip": "128.199.207.200",
@@ -130,19 +169,6 @@
     }
   },
   {
-    "proxy": "http://203.126.53.78:443",
-    "protocol": "http",
-    "ip": "203.126.53.78",
-    "port": 443,
-    "https": true,
-    "anonymity": "transparent",
-    "score": 1,
-    "geolocation": {
-      "country": "SG",
-      "city": "Unknown"
-    }
-  },
-  {
     "proxy": "http://159.65.8.214:80",
     "protocol": "http",
     "ip": "159.65.8.214",
@@ -182,10 +208,10 @@
     }
   },
   {
-    "proxy": "http://8.222.175.80:6128",
+    "proxy": "http://157.245.194.13:8888",
     "protocol": "http",
-    "ip": "8.222.175.80",
-    "port": 6128,
+    "ip": "157.245.194.13",
+    "port": 8888,
     "https": false,
     "anonymity": "transparent",
     "score": 1,
@@ -244,6 +270,19 @@
     "geolocation": {
       "country": "SG",
       "city": ""
+    }
+  },
+  {
+    "proxy": "http://23.247.136.254:80",
+    "protocol": "http",
+    "ip": "23.247.136.254",
+    "port": 80,
+    "https": false,
+    "anonymity": "transparent",
+    "score": 1,
+    "geolocation": {
+      "country": "SG",
+      "city": "Singapore"
     }
   },
   {
